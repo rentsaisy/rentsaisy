@@ -37,7 +37,7 @@
     <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8) |
+  | ![](https://github-readme-stats.vercel.app/api?username=rentsaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true) |![](https://nirzak-streak-stats.vercel.app/?user=rentsaisy&theme=radical&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rentsaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 | :-: | :-: | :-: |
 
   | ![](https://github-profile-trophy.vercel.app/?username=rentsaisy&theme=radical&no-frame=true&no-bg=false&margin-w=4)|
