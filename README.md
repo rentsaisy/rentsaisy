@@ -8,12 +8,12 @@
       Olá, meu nome é Rafaela !
       <br>
 </div>
-<div align="center">
+<!-- <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
-<br>
+<br> -->
       
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
@@ -36,8 +36,7 @@
     <br>
 <div align="center">
 
-  | ![](https://github-profile-trophy.vercel.app/?username=rentsaisy&theme=radical&no-frame=true&no-bg=false&margin-w=4)|
-  | ![](https://github-readme-stats.vercel.app/api?username=rentsaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true) |![](https://nirzak-streak-stats.vercel.app/?user=rentsaisy&theme=radical&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rentsaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+  | ![](https://github-profile-trophy.vercel.app/?username=rentsaisy&theme=radical&no-frame=true&no-bg=false&margin-w=4)| ![](https://github-readme-stats.vercel.app/api?username=rentsaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true) |![](https://nirzak-streak-stats.vercel.app/?user=rentsaisy&theme=radical&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rentsaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 <!-- | :-: | :-: | :-: | -->
 
   <!-- | ![](https://github-profile-trophy.vercel.app/?username=rentsaisy&theme=radical&no-frame=true&no-bg=false&margin-w=4)|
