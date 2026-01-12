@@ -5,7 +5,7 @@
     <b>
       システムアナリスト
       <br>
-      Olá, meu nome é Rafaela !
+      Halo, nama saya Rentsaisy !
       <br>
 </div>
 <!-- <div align="center">
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Indonesia;I'm+a+student+of+Analysis+and+Game+Development;Interested+in+Machine+Learning;I'm+also+a+Pixel+Art+Artist;Be+welcome+to+collaborate!" alt="Typing SVG"/>
 </div>
 
 <br>
