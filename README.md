@@ -5,7 +5,7 @@
     <b>
       システムアナリスト
       <br>
-      Halo, nama saya Rentsaisy !
+      Halo, semoga kita berteman baik !
       <br>
 </div>
 <!-- <div align="center">
