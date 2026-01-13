@@ -3,8 +3,6 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
-      <br>
       Halo, semoga kita berteman baik !
       <br>
 </div>
