@@ -2,9 +2,6 @@
 
 <div align="center">
   <samp>
-    <b>
-      Halo, semoga kita berteman baik !
-      <br>
 </div>
       
 <br>
