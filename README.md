@@ -56,7 +56,7 @@
   [![Twitch](https://img.shields.io/badge/Twitch-2e3440?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/rentsaisy)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aisyah-currents)
   [![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=TikTokt&logoColor=fff)](https://www.tiktok.com/@rentsaisy)
-  
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rentsaisy)
   
 </div>
 
