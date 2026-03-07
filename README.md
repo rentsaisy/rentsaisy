@@ -2,14 +2,7 @@
 
 <div align="center">
   <samp>
-    <b>
-      Halo, semoga kita berteman baik !
-      <br>
 </div>
-      
-<br>
-<br>
-      
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
@@ -65,19 +58,6 @@
   [![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=TikTokt&logoColor=fff)](https://www.tiktok.com/@rentsaisy)
   
   
-</div>
-
-<div align="center">
-
-<p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-
 </div>
 
 ##
