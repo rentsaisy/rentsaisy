@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=C8A2C8"/>
 
 <div align="center">
   <samp>
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Indonesia;I'm+a+student+of+Analysis+and+Game+Development;Interested+in+Machine+Learning;I'm+also+a+Pixel+Art+Artist;Be+welcome+to+collaborate!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Indonesia;I'm+a+student+of+Analysis+and+Game+Development;Interested+in+Machine+Learning;I'm+also+a+Pixel+Art+Artist;Currently+learning+Japanese,+Russian,+and+Chinese;Be+welcome+to+collaborate!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -28,7 +28,6 @@
   
 </div>
 <div align="center" style="display: inline_block"><br>
-  <b align="center">Tech Stack</b>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Blender-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
@@ -67,4 +66,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=100&section=footer"/>
