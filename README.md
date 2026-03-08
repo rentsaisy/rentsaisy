@@ -27,6 +27,7 @@
   ![](https://github-profile-trophy.vercel.app/?username=rentsaisy&theme=radical&no-frame=true&no-bg=false&margin-w=4) ![](https://github-readme-stats.vercel.app/api?username=rentsaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=rentsaisy&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rentsaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
   
 </div>
+<h2 align="center">Tech Stack</h2>
 <div align="center" style="display: inline_block"><br>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Blender-Dark.svg" />
