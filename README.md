@@ -27,7 +27,7 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=rentsaisy&style=for-the-badge&color=8B6FBF&label=PROFILE+VIEWS)](https://github.com/rentsaisy)
   [![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rentsaisy&query=public_repos&style=for-the-badge&label=PUBLIC+REPOS&color=C0A0E8&labelColor=1E1432)](https://github.com/rentsaisy?tab=repositories)
   [![Last Commit](https://img.shields.io/github/last-commit/rentsaisy/rentsaisy?style=for-the-badge&label=LAST+PUSH&color=C73E3A&labelColor=1E1432)](https://github.com/rentsaisy)
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=rentsaisy&theme=radical&no-frame=true&no-bg=false&margin-w=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews) <br>
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=rentsaisy&theme=radical&no-frame=true&no-bg=false&margin-w=4&title=MultiLanguage,Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews) <br>
 
   
 </div>
