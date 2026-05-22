@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B39DDB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1432,30:2A1B3D,60:1E1432,100:0D0A1A&height=120&section=header&text=&fontSize=1&fontAlignY=35&animation=twinkling" width="100%" />
 
 <div align="center">
   <samp>
@@ -23,6 +23,10 @@
     </summary>
     <br>
 <div align="center">
+
+  [![Profile Views](https://komarev.com/ghpvc/?username=rentsaisy&style=for-the-badge&color=8B6FBF&label=PROFILE+VIEWS)](https://github.com/rentsaisy)
+  [![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rentsaisy&query=public_repos&style=for-the-badge&label=PUBLIC+REPOS&color=C0A0E8&labelColor=1E1432)](https://github.com/rentsaisy?tab=repositories)
+  [![Last Commit](https://img.shields.io/github/last-commit/rentsaisy/rentsaisy?style=for-the-badge&label=LAST+PUSH&color=C73E3A&labelColor=1E1432)](https://github.com/rentsaisy)
 
   ![](https://github-profile-trophy.vercel.app/?username=rentsaisy&theme=radical&no-frame=true&no-bg=false&margin-w=4) <br>
   ![](https://github-readme-stats.vercel.app/api?username=rentsaisy&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br>
@@ -69,4 +73,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,30:1E1432,60:2A1B3D,100:1E1432&height=120&section=footer&text=&fontSize=1" width="100%" />
