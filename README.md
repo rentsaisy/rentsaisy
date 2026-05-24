@@ -112,7 +112,7 @@
      alt="Novels" width="100%" />
 <br/>
 <img src="https://img.shields.io/badge/TEARS_OF_THEMIS-8B6FBF?style=for-the-badge&labelColor=1E1432" /><br/>
-<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Vyn Richter.png"
+<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Vyn_Richter.png"
      alt="Novels" width="100%" />
 <br/>
 <img src="https://img.shields.io/badge/HONKAI:_STAR_RAIL-C0A0E8?style=for-the-badge&labelColor=1E1432" /><br/>
