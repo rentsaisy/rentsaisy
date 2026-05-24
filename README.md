@@ -27,9 +27,8 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=rentsaisy&style=for-the-badge&color=8B6FBF&label=PROFILE+VIEWS)](https://github.com/rentsaisy)
   [![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rentsaisy&query=public_repos&style=for-the-badge&label=PUBLIC+REPOS&color=C0A0E8&labelColor=1E1432)](https://github.com/rentsaisy?tab=repositories)
   [![Last Commit](https://img.shields.io/github/last-commit/rentsaisy/rentsaisy?style=for-the-badge&label=LAST+PUSH&color=C73E3A&labelColor=1E1432)](https://github.com/rentsaisy)
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=rentsaisy&theme=radical&no-frame=true&no-bg=false&margin-w=4&title=MultiLanguage,Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews) <br>
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=rentsaisy&theme=radical&no-frame=true&no-bg=false&margin-w=4&title=MultiLanguage,Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews) 
 
-  
 </div>
 <div align="center" style="display: inline_block"><br>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
@@ -61,6 +60,68 @@
   [![itch.io](https://img.shields.io/badge/itch.io-2e3440?style=for-the-badge&logo=itchdotio&logoColor=fff)](https://Rentsaisy.itch.io)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/currents.aisy)
   
+</div>
+
+<div align="center">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,20:1E1432,50:3D1A2E,80:1E1432,100:0D0A1A&height=150&section=header&text=My%20Personal%20Interests&fontSize=40&fontColor=C0A0E8&fontAlignY=40&desc=ughh%20me%20needs%20downtime%20too%20%5E%5E%3B&descSize=14&descColor=8B6FBF&descAlignY=68&animation=fadeIn" width="100%" />
+</div>
+
+<!-- ┌──────────── ROW 1 · ANIMATIONS + COMICS ─────────────────────────────────┐ -->
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1028,100:0D0A1A&height=35&text=ANIMATIONS&fontSize=16&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
+<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1B3D,100:0D0A1A&height=35&text=COMICS&fontSize=16&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
+</tr>
+<tr>
+
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Animation.png"
+     alt="Animation" width="100%" />
+</td>
+
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Comics.png"
+     alt="Comics" width="100%" />
+</td>
+
+</tr>
+</table>
+</div>
+
+<!-- ┌──────────── ROW 2 · NOVELS + GAMES ──────────────────────┐ -->
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:1A1B3D,100:0D0A1A&height=35&text=NOVELS&fontSize=16&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
+<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2D1A3D,100:0D0A1A&height=35&text=GAMES&fontSize=16&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
+</tr>
+<tr>
+
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Novels.png"
+     alt="Novels" width="100%" />
+</td>
+
+<td width="50%" align="center" valign="top">
+<img src="https://img.shields.io/badge/GENSHIN_IMPACT-C73E3A?style=for-the-badge&labelColor=1E1432" /><br/>
+<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/CharGI.png"
+     alt="Novels" width="100%" />
+<br/>
+<img src="https://img.shields.io/badge/TEARS_OF_THEMIS-8B6FBF?style=for-the-badge&labelColor=1E1432" /><br/>
+<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Vyn Richter.png"
+     alt="Novels" width="100%" />
+<br/>
+<img src="https://img.shields.io/badge/HONKAI:_STAR_RAIL-C0A0E8?style=for-the-badge&labelColor=1E1432" /><br/>
+<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/CharHSR.png"
+     alt="Novels" width="100%" />
+</td>
+
+</tr>
+</table>
 </div>
 
 ##
