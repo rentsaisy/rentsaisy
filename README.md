@@ -4,7 +4,7 @@
   <samp>
 </div>
 <div align="center">
-  <img src="./assets/The Herta.gif" width="200">
+  <img src="./assets/The Herta.gif" width="300">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/HI_♡-black" />
