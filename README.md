@@ -72,8 +72,8 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1028,100:0D0A1A&height=35&text=ANIMATIONS&fontSize=20&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
-<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1B3D,100:0D0A1A&height=35&text=COMICS&fontSize=20&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
+<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1028,100:0D0A1A&height=35&text=ANIMATIONS&fontSize=30&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
+<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1B3D,100:0D0A1A&height=35&text=COMICS&fontSize=30&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
 </tr>
 <tr>
 
@@ -96,8 +96,8 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:1A1B3D,100:0D0A1A&height=35&text=NOVELS&fontSize=16&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
-<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2D1A3D,100:0D0A1A&height=35&text=GAMES&fontSize=16&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
+<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:1A1B3D,100:0D0A1A&height=35&text=NOVELS&fontSize=30&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
+<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2D1A3D,100:0D0A1A&height=35&text=GAMES&fontSize=30&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
