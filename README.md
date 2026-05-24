@@ -104,7 +104,7 @@
 </td>
 
 <td width="50%" align="center" valign="top">
-<img src="https://img.shields.io/badge/GENSHIN_IMPACT-C73E3A?style=for-the-badge&labelColor=1E1432" /><br/>
+<img src="https://img.shields.io/badge/GENSHIN_IMPACT-C0A0E8?style=for-the-badge&labelColor=1E1432" /><br/>
 <img src="./assets/CharGI.png"
      alt="GI" width="100%" />
 <br/>
