@@ -109,15 +109,15 @@
 <td width="50%" align="center" valign="top">
 <img src="https://img.shields.io/badge/GENSHIN_IMPACT-C73E3A?style=for-the-badge&labelColor=1E1432" /><br/>
 <img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/CharGI.png"
-     alt="Novels" width="100%" />
+     alt="GI" width="100%" />
 <br/>
 <img src="https://img.shields.io/badge/TEARS_OF_THEMIS-8B6FBF?style=for-the-badge&labelColor=1E1432" /><br/>
 <img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Vyn_Richter.png"
-     alt="Novels" width="100%" />
+     alt="HSR" width="100%" />
 <br/>
 <img src="https://img.shields.io/badge/HONKAI:_STAR_RAIL-C0A0E8?style=for-the-badge&labelColor=1E1432" /><br/>
 <img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/CharHSR.png"
-     alt="Novels" width="100%" />
+     alt="TOT" width="100%" />
 </td>
 
 </tr>
