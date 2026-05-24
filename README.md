@@ -1,10 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1432,30:2A1B3D,60:1E1432,100:0D0A1A&height=120&section=header&text=&fontSize=1&fontAlignY=35&animation=twinkling" width="100%" />
 
 <div align="center">
-  <samp>
-</div>
-<div align="center">
-  <img src="./assets/The Herta.gif" width="300">
+  <img src="./assets/The Herta.gif" width="200">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/HI_♡-black" />
