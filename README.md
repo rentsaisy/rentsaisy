@@ -78,12 +78,12 @@
 <tr>
 
 <td width="50%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Animation.png"
+<img src="./assets/Animation.png"
      alt="Animation" width="100%" />
 </td>
 
 <td width="50%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Comics.png"
+<img src="./assets/Comics.png"
      alt="Comics" width="100%" />
 </td>
 
@@ -102,21 +102,21 @@
 <tr>
 
 <td width="50%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Novels.png"
+<img src="./assets/Novels.png"
      alt="Novels" width="100%" />
 </td>
 
 <td width="50%" align="center" valign="top">
 <img src="https://img.shields.io/badge/GENSHIN_IMPACT-C73E3A?style=for-the-badge&labelColor=1E1432" /><br/>
-<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/CharGI.png"
+<img src="./assets/CharGI.png"
      alt="GI" width="100%" />
 <br/>
 <img src="https://img.shields.io/badge/TEARS_OF_THEMIS-8B6FBF?style=for-the-badge&labelColor=1E1432" /><br/>
-<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/Vyn_Richter.png"
+<img src="./assets/Vyn_Richter.png"
      alt="HSR" width="100%" />
 <br/>
 <img src="https://img.shields.io/badge/HONKAI:_STAR_RAIL-C0A0E8?style=for-the-badge&labelColor=1E1432" /><br/>
-<img src="https://raw.githubusercontent.com/rentsaisy/rentsaisy/main/assets/CharHSR.png"
+<img src="./assets/CharHSR.png"
      alt="TOT" width="100%" />
 </td>
 
