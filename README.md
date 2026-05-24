@@ -64,7 +64,7 @@
 
 <div align="center">
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,20:1E1432,50:3D1A2E,80:1E1432,100:0D0A1A&height=150&section=header&text=My%20Personal%20Interests&fontSize=40&fontColor=C0A0E8&fontAlignY=40&desc=ughh%20me%20needs%20downtime%20too%20%5E%5E%3B&descSize=14&descColor=8B6FBF&descAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,20:1E1432,50:3D1A2E,80:1E1432,100:0D0A1A&height=150&section=header&text=My%20Personal%20Interests&fontSize=40&fontColor=C0A0E8&fontAlignY=40&animation=fadeIn" width="100%" />
 </div>
 
 <!-- ┌──────────── ROW 1 · ANIMATIONS + COMICS ─────────────────────────────────┐ -->
