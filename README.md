@@ -52,6 +52,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,20:1E1432,50:3D1A2E,80:1E1432,100:0D0A1A&height=150&text=My%20Personal%20Interests&fontSize=40&fontColor=C0A0E8&fontAlignY=40&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
+
   [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/rentsaisy)
   [![Twitch](https://img.shields.io/badge/Twitch-2e3440?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/rentsaisy)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aisyah-currents)
@@ -59,6 +60,7 @@
   [![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=TikTokt&logoColor=fff)](https://www.tiktok.com/@currents.aisy)
   [![itch.io](https://img.shields.io/badge/itch.io-2e3440?style=for-the-badge&logo=itchdotio&logoColor=fff)](https://Rentsaisy.itch.io)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/currents.aisy)
+
 </div>
 
 # ROW 1 · ANIMATIONS + COMICS 
