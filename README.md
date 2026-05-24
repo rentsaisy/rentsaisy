@@ -63,7 +63,7 @@
 
 </div>
 
-# ROW 1 · ANIMATIONS + COMICS 
+<!-- ROW 1 · ANIMATIONS + COMICS  -->
 
 <div align="center">
 <table>
@@ -87,7 +87,7 @@
 </table>
 </div>
 
-# ROW 2 · NOVELS + GAMES 
+<!-- ROW 2 · NOVELS + GAMES  -->
 
 <div align="center">
 <table>
